@@ -677,6 +677,10 @@ vendor/lib64/libqisl.so|c79719eebc094c2af9561e8df2c158638b111b70
 vendor/lib64/librpmb.so|c3d14679c2630e5488a9d247c11ce24f147f9ad3
 vendor/lib64/libssd.so|071e356c537195fc1fab8c725e3e70850711dff9
 
+# DRM (libdrm) - from RealmeUI 2.0
+vendor/lib/libdrm.so
+vendor/lib64/libdrm.so
+
 # DRM (OEM Crypto API)
 odm/lib64/liboemcrypto.so
 
